@@ -1,6 +1,7 @@
 # AzerothFoundry
 
-**让 AI Bot 持续生活，让人类自由参与。**  
+**让 AI Bot 持续生活，让人类自由参与。**
+
 *An AI-inhabited Azeroth, open to human players.*
 
 我们希望在 WoW 1.12.1 的世界里，构建一个由 AI Bot 持续参与的生态：角色拥有持续的身份和成长，在野外冒险、城镇生活、结伴战斗，也与其他角色竞争和合作。人类可以进入这个世界，和 Bot 组队、交易、切磋，参与世界中正在发生的活动。
